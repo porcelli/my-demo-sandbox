@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dmn:definitions xmlns:dmn="http://www.omg.org/spec/DMN/20180521/MODEL/" xmlns="https://kiegroup.org/dmn/_B5C494B1-2D0E-4373-AA84-41E4077CF268" xmlns:feel="http://www.omg.org/spec/DMN/20180521/FEEL/" xmlns:kie="http://www.drools.org/kie/dmn/1.2" xmlns:dmndi="http://www.omg.org/spec/DMN/20180521/DMNDI/" xmlns:di="http://www.omg.org/spec/DMN/20180521/DI/" xmlns:dc="http://www.omg.org/spec/DMN/20180521/DC/" xmlns:included1="https://kiegroup.org/dmn/_857FE424-BEDA-4772-AB8E-2F4CDDB864AB" id="_B17EF96F-9372-44DC-A138-9968ED0B4650" name="XXX" typeLanguage="http://www.omg.org/spec/DMN/20180521/FEEL/" namespace="https://kiegroup.org/dmn/_B5C494B1-2D0E-4373-AA84-41E4077CF268">
+  <dmn:extensionElements/>
+  <dmn:import id="_8ABE88D3-6696-4C01-A849-AF852166C374" name="Sample" namespace="https://kiegroup.org/dmn/_857FE424-BEDA-4772-AB8E-2F4CDDB864AB" locationURI="Sample.dmn" importType="http://www.omg.org/spec/DMN/20180521/MODEL/"/>
+  <dmndi:DMNDI>
+    <dmndi:DMNDiagram id="_CEA498EF-512A-4617-A22A-A379CF7CB4F4" name="DRG">
+      <di:extension>
+        <kie:ComponentsWidthsExtension/>
+      </di:extension>
+    </dmndi:DMNDiagram>
+  </dmndi:DMNDI>
+</dmn:definitions>
